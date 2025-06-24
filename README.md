@@ -4,7 +4,6 @@
 
 This repository contains a command-line interface (CLI) implementation of the game.
 
----
 ## 🎯 What is Tic-Tac-Toe+?
 
 Tic-Tac-Toe+ is played on a 3x3 grid of mini Tic-Tac-Toe boards. 
@@ -19,7 +18,6 @@ Here's how it works:
 
 For a visual explanation, check out this [short video on Tic-Tac-Toe+](https://www.youtube.com/watch?v=_Na3a1ZrX7c).
 
----
 ## 🚫 What is N-Tac-Toe?
 
 N-Tac-Toe has the following mechanics:
